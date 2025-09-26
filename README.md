@@ -2,10 +2,7 @@
 Build Rush is a causal arcade-style construction game designed for both single player and multiplayer gameplay
 
 ##  Game Description
-**Build Rush** is a 2D block-stacking arcade game inspired by classic mobile stacking titles.  
-Players drop moving blocks to create the tallest, most stable tower possible. Precise timing and streaks of accuracy are rewarded with a **repeating point-based scoring system**.  
-
-The game supports both **single-player** and **multiplayer** modes for competitive fun.  
+**Build Rush** is a 2D block-stacking arcade game inspired by classic mobile stacking titles. Players drop moving blocks to create the tallest, most stable tower possible. Precise timing and streaks of accuracy are rewarded with a **repeating point-based scoring system**. The game supports both **single-player** and **multiplayer** modes for competitive fun.  
 
 
 ## Features
