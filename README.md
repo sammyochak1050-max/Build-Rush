@@ -99,7 +99,7 @@ The game supports both **single-player** and **multiplayer** modes for competiti
   [Build Rush Project:](https://youtu.be/OrEk-fGueaY/)
   
  ##Project Report
- Project Report:
+ [Project Report:Build Rush](https://docs.google.com/document/d/15pYN6JJF-TT0dzb1jL4aj-inb4q5mPXM/edit?usp=drive_link&ouid=106212286006993300162&rtpof=true&sd=true)
 
 
 
