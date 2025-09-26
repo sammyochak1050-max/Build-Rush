@@ -81,7 +81,7 @@ The game supports both **single-player** and **multiplayer** modes for competiti
 
 
 ## Screenshots
-> Replace placeholders with actual images.  
+ 
 
 ### **Main Menu**  
  <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/06200bc3c87b803e9831e302c1bc6c0408824d3a/1000027823.jpg" width="200" height="200">
