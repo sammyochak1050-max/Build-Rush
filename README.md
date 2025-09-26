@@ -49,34 +49,31 @@ The game supports both **single-player** and **multiplayer** modes for competiti
 ##  How to Play
 
 ### Controls
-| Mode / Player | Move Left | Move Right | Drop Block | Pause | Restart |
-|---------------|-----------|------------|------------|-------|---------|
-| **Single Player** | ← | → | Space | P | R |
-| **Player 1 (Multiplayer)** | S | – | Space | P | R |
-| **Player 2 (Multiplayer)** | Page Down | – | Space | P | R |
+| Mode / Player | Action | Key |
+|---------------|----------------|------------|
+| Single Player | Drop Block | Space |
+| Player 1 (MP) | Drop Block | S |
+| Player 2 (MP) | Drop Block | Page Down |
 
-
-###  **Game Rules**
-- Each player controls a block dropper on their side of the screen.  
-- In **Single Player**, blocks are dropped using the **Space key**.  
-- In **Multiplayer**,  
-  - **Player 1 (Left Side)** drops blocks using the **S key**.  
-  - **Player 2 (Right Side)** drops blocks using the **Page Down key**.  
-- Points are awarded based on the special scoring sequence:  
-  - 1st correctly placed block → **1 point**  
-  - 2nd consecutive block → **3 points**  
-  - 3rd consecutive block → **5 points**  
-  - After the 3rd, the cycle resets back to 1 point.  
-- The tower must remain stable — misaligned drops shorten blocks and may cause collapse.  
-- The game ends when the tower collapses.  
-- In **Multiplayer mode**, the player with the higher score when one tower collapses is declared the winner.
-
+## Game Rules
+- Players drop blocks using their assigned keys:  
+  - Single Player → Space  
+  - Player 1 (Multiplayer) → S  
+  - Player 2 (Multiplayer) → Page Down  
+- Points are awarded based on the scoring sequence:  
+  - 1st successful placement → 1 point  
+  - 2nd consecutive → 3 points  
+  - 3rd consecutive → 5 points  
+  - After the 3rd placement, the cycle resets and repeats.  
+- Blocks must be stacked accurately to avoid collapse.  
+- The game ends if the tower collapses.  
+- In multiplayer mode, the player with the higher score when a tower collapses wins.
 
 
 
 
 
-## Contributors
+## Project Contributors
 
 1.Talha Jubeir
 2.Sammyo Chakroborty
@@ -87,13 +84,13 @@ The game supports both **single-player** and **multiplayer** modes for competiti
 > Replace placeholders with actual images.  
 
 ### **Main Menu**  
- <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/06200bc3c87b803e9831e302c1bc6c0408824d3a/1000027823.jpg" width="650" height="600">
+ <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/06200bc3c87b803e9831e302c1bc6c0408824d3a/1000027823.jpg" width="200" height="200">
 
 ### **Single Player Gameplay**  
- <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/3937039a5d9daaf5f12552d978c8cc9920bc1ac5/1000027822.jpg" width="650" height="600">   
+ <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/3937039a5d9daaf5f12552d978c8cc9920bc1ac5/1000027822.jpg" width="200" height="200">   
 
 ###**Multiplayer Match**  
-  <img src="  
+  <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/89c8872fe11c90c1add239bf4e0fda2ab9b34fe4/1000027824.jpg" width="200" height="200">  
 
 
 
