@@ -48,14 +48,14 @@ The game supports both **single-player** and **multiplayer** modes for competiti
 
 ##  How to Play
 
-### Controls
+### **Controls**
 | Mode / Player | Action | Key |
 |---------------|----------------|------------|
 | Single Player | Drop Block | Space |
 | Player 1 (MP) | Drop Block | S |
 | Player 2 (MP) | Drop Block | Page Down |
 
-## Game Rules
+### **Game Rules**
 - Players drop blocks using their assigned keys:  
   - Single Player → Space  
   - Player 1 (Multiplayer) → S  
@@ -83,13 +83,13 @@ The game supports both **single-player** and **multiplayer** modes for competiti
 ## Screenshots
  
 
-### **Main Menu**  
+### **Menu**  
  <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/06200bc3c87b803e9831e302c1bc6c0408824d3a/1000027823.jpg" width="200" height="200">
 
 ### **Single Player Gameplay**  
  <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/3937039a5d9daaf5f12552d978c8cc9920bc1ac5/1000027822.jpg" width="200" height="200">   
 
-###**Multiplayer Match**  
+### **Multiplayer Gameplay**  
   <img src="https://github.com/sammyochak1050-max/Build-Rush/blob/89c8872fe11c90c1add239bf4e0fda2ab9b34fe4/1000027824.jpg" width="200" height="200">  
 
 
